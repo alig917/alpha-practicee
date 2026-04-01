@@ -9,6 +9,7 @@ import docIbrahimNaeem from "@/assets/doctor-ibrahim-naeem.png";
 import docHiraHafeez from "@/assets/doctor-hira-hafeez.png";
 import docRida from "@/assets/doctor-rida.png";
 import docShaharyar from "@/assets/doctor-shaharyar.png";
+import docArsalanHayat from "@/assets/doctor-arsalan-hayat.jpeg";
 
 const doctors = [
   {
@@ -81,6 +82,15 @@ const doctors = [
     specialty: "Postgraduate Trainee in Prosthodontics",
     exp: "3 Years",
     quals: "BDS",
+    fullImage: true,
+  },
+  {
+    id: "arsalan-hayat",
+    img: docArsalanHayat,
+    name: "Arsalan Hayat",
+    specialty: "Dental Hygienist",
+    exp: "3 Years",
+    quals: "Alpha Practice",
     fullImage: true,
   },
 ];
