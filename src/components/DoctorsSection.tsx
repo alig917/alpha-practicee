@@ -7,6 +7,7 @@ import doc3 from "@/assets/doctor-3.jpg";
 import docFatimaAzam from "@/assets/doctor-fatima-azam.png";
 import docIbrahimNaeem from "@/assets/doctor-ibrahim-naeem.png";
 import docHiraHafeez from "@/assets/doctor-hira-hafeez.png";
+import docNafiah from "@/assets/doctor-nafiah.png";
 import docRida from "@/assets/doctor-rida.png";
 import docShaharyar from "@/assets/doctor-shaharyar.png";
 import docArsalanHayat from "@/assets/doctor-arsalan-hayat.jpeg";
@@ -46,6 +47,15 @@ const doctors = [
     specialty: "Dental Practitioner, COO Alpha Practice",
     exp: "4 Years",
     quals: "BDS (UHS), Dip. Facial Aesthetics, AACME (USA), Accredited by UK-CPD",
+    fullImage: true,
+  },
+  {
+    id: "nafiah",
+    img: docNafiah,
+    name: "Dr. Nafiah",
+    specialty: "ENDODONTIST",
+    exp: "12 Years",
+    quals: "BDS, FCPS (Operative Dentistry and Endodontics), CHPE, CHR, PGD-PHNLM",
     fullImage: true,
   },
   {

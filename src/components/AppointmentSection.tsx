@@ -147,6 +147,7 @@ const AppointmentSection = () => {
                       <SelectItem value="shaharyar">Dr. Shaharyar Khan Niazi</SelectItem>
                       <SelectItem value="fareed">Dr. Fareed Sher Muhammad</SelectItem>
                       <SelectItem value="rida">Dr. Rida Khan</SelectItem>
+                      <SelectItem value="nafiah">Dr. Nafiah</SelectItem>
                       <SelectItem value="sana">Dr. Sana Tariq</SelectItem>
                       <SelectItem value="hira-hafeez">Dr. Hira Hafeez</SelectItem>
                       <SelectItem value="ibrahim-naeem">Dr. M. Ibrahim Naeem</SelectItem>
